@@ -1,0 +1,11 @@
+?��?,Source address,Destination address,Source User,Application ,Time Logged),Action ,URL/Filename,Category 
+LA,172.31.129.96,13.35.36.215,oant\esb80434,web-browsing,2021/10/26 12:15,block-url,s.ss2.us/r.crl,malware
+LA,172.31.129.95,13.35.163.135,oant\esb81651,web-browsing,2021/10/26 11:25,block-url,s.ss2.us/r.crl,malware
+LA,172.31.129.96,13.35.36.215,oant\esb80434,web-browsing,2021/10/26 12:18,block-url,s.ss2.us/r.crl,malware
+香港,172.31.132.170,210.61.181.20,oant\esb81816,web-browsing,2021/10/26 15:14,block-url,mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png,phishing
+香港,172.31.132.170,210.61.181.20,oant\esb81816,web-browsing,2021/10/26 15:14,block-url,mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png,phishing
+香港,172.31.132.170,210.61.181.20,oant\esb81816,web-browsing,2021/10/26 15:14,block-url,mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png,phishing
+LA,172.31.129.95,13.35.163.64,oant\esb81651,web-browsing,2021/10/26 09:43,block-url,s.ss2.us/r.crl,malware
+LA,172.31.129.96,13.35.36.215,oant\esb80434,web-browsing,2021/10/26 12:17,block-url,s.ss2.us/r.crl,malware
+LA,172.31.129.96,13.35.36.214,oant\esb80434,web-browsing,2021/10/26 11:29,block-url,s.ss2.us/r.crl,malware
+LA,172.31.129.99,13.225.163.124,oant\esb80037,web-browsing,2021/10/26 12:10,block-url,s.ss2.us/r.crl,malware
